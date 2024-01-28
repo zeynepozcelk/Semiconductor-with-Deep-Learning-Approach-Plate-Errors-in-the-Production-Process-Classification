@@ -1,4 +1,4 @@
-# Semiconductor Plate Error Classification with Deep Learning
+# Classification of Wafer Defects in the Semiconductor Manufacturing Process with a Deep Learning Approach
 
 ## Project Description
 ## Overview
