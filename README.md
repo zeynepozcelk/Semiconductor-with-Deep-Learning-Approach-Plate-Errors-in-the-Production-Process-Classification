@@ -1,4 +1,4 @@
-#Semiconductor Plate Error Classification with Deep Learning
+# Semiconductor Plate Error Classification with Deep Learning
 
 ##Project Description
 ##Overview
